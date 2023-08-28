@@ -8,7 +8,7 @@ I'm George and I study the brain. I often have to code to be able to do experime
   - Behaviour
   - Two-photon calcium imaging
 - Interested in
-  - 📚 Science-fiction: Trying to read all of the [Hugo Award winners](https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel) in chronological order
+  - 📚 Science-fiction: trying to read all of the [Hugo Award winners](https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel) in chronological order
   - ⌨️ Keyboards: mechanical and [configurable](https://github.com/jtroo/kanata)
   - 🏁 Mario Kart 8 DX: 🍄👑
 
