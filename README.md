@@ -4,6 +4,9 @@ I'm George from Australia.
 
 - Building open-source scientific software.
 - Learning SQL and cloud computing.
+- Personal projects
+  - [scilayout](https://github.com/ogeesan/scilayout): a `matplotlib` utility to make creating scientific figures more intuitive by using centimetres.
+  - [Arms In and Out of Australia](https://github.com/ogeesan/Arms-In-and-Out-of-Australia): a project using SQL/Python to examine Australia's arms trade data.
 - Interested in
   - Transitioning into environmental/ecological work  
   - 📚 Science-fiction: trying to read all of the [Hugo Award winners](https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel) in chronological order
